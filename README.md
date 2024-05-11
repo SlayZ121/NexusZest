@@ -1,4 +1,4 @@
-# Online Trading System
+# NexusZest
 
 ## Description
 This is an online trading system where users can register, buy items from the market, and sell items they own. The system includes user authentication to ensure security and privacy.
